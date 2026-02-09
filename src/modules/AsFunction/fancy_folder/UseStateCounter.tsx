@@ -17,6 +17,7 @@ const UseStateCounter = (props: Props) => {
 
     const incr2 = () => {
 
+        //TEST
         if (props.onChange) {
             props.onChange();
         }

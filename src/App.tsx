@@ -15,11 +15,11 @@ function App() {
 
   return (
     <>
-     { <Home/> }
-     {/* { <UseCallbackPage />} */}
-     {/* <CustomHookPage/> */}
+     {/* <Home/> */}
      {/* <AsFunctionPage/> */}
-     {/* <ContextDemo/> */}
+     {/* <ContextDemo/> /**/}
+     {/* <UseCallbackPage /> */}
+     {/* <CustomHookPage/> /**/}
      {/* <MuiPage/> */}
     </>
   )

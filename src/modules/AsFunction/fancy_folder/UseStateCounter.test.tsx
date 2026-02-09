@@ -7,17 +7,6 @@ describe('useStateCounter общие тесты', () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
     test('check UseStateCounter', async () => {
         // Arrange
         const fakeFunction = jest.fn();
